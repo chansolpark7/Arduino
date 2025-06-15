@@ -1,0 +1,7 @@
+0 : reset pos
+1 : pen up
+2 : pen down
+3 x y : move to (x, y)
+4 : disable
+5 : enable
+6 : get x y
